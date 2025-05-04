@@ -59,7 +59,4 @@ docker network create --subnet=172.20.0.0/16 asa-net
 - **service.sh**: script automatizador para construir e rodar os containers.
 - **Rede Docker**: os containers se comunicam pela rede `asa-net`.
 
-## 👥 Trabalho em Grupo
-
-Este repositório deve ser compartilhado entre os membros da equipe, com colaboração via GitHub.
 
